@@ -4,6 +4,8 @@
 ## Intro
 👋 Hi, I’m @djvelimir
 ## Demo Projects
+### Software Architecture
+- [demo-software-architecture](https://github.com/djvelimir/demo-software-architecture.git)
 ### Java
 - [demo-java-cli](https://github.com/djvelimir/demo-java-cli.git)
 - [demo-java-swing](https://github.com/djvelimir/demo-java-swing.git)

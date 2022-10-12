@@ -1,10 +1,13 @@
 # GitHub Profile
 
-<img src="https://media.giphy.com/media/Lq6gXzrEt21hwvaZGA/giphy.gif" alt="Sonic" />
+[![Sonic](https://media.giphy.com/media/Lq6gXzrEt21hwvaZGA/giphy.gif)](https://djvelimir.github.io)
 
 ## Intro
 
 👋 Hi, I’m @djvelimir
+
+GitHub pages: https://djvelimir.github.io
+
 ```
      .___    __             .__  .__        .__        
    __| _/   |__|__  __ ____ |  | |__| _____ |__|______ 

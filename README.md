@@ -39,6 +39,10 @@ GitHub pages: https://djvelimir.github.io
 
 - [demo-cpp-cli](https://github.com/djvelimir/demo-cpp-cli.git)
 
+### Python
+
+- [demo-python-cli](https://github.com/djvelimir/demo-python-cli.git)
+
 ### Spa
 
 - [demo-spa-angular](https://github.com/djvelimir/demo-spa-angular.git)

@@ -6,7 +6,7 @@
 
 👋 Hi, I’m Velimir
 
-GitHub pages: https://djvelimir.github.io
+GitHub pages: <https://djvelimir.github.io>
 
 ## Demo Projects
 

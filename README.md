@@ -21,7 +21,11 @@ GitHub pages: <https://djvelimir.github.io>
 - [demo-java-fx](https://github.com/djvelimir/demo-java-fx.git)
 - [demo-java-spring-boot](https://github.com/djvelimir/demo-java-spring-boot.git)
 
-### .NET
+### Kotlin
+
+- [demo-kotlin-cli](https://github.com/djvelimir/demo-kotlin-cli.git)
+
+### C# .NET
 
 - [demo-dotnet-cli](https://github.com/djvelimir/demo-dotnet-cli.git)
 - [demo-dotnet-web-api](https://github.com/djvelimir/demo-dotnet-web-api.git)
@@ -37,10 +41,6 @@ GitHub pages: <https://djvelimir.github.io>
 ### Node.js
 
 - [demo-node](https://github.com/djvelimir/demo-node.git)
-
-### Kotlin
-
-- [demo-kotlin-cli](https://github.com/djvelimir/demo-kotlin-cli.git)
 
 ### Spa
 

@@ -40,7 +40,7 @@ GitHub pages: <https://djvelimir.github.io>
 
 ### Go
 
-- [demo-go](https://github.com/djvelimir/demo-rust)
+- [demo-go](https://github.com/djvelimir/demo-go)
 
 ### Python
 

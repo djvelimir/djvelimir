@@ -38,6 +38,10 @@ GitHub pages: <https://djvelimir.github.io>
 
 - [demo-rust](https://github.com/djvelimir/demo-rust)
 
+### Go
+
+- [demo-go](https://github.com/djvelimir/demo-rust)
+
 ### Python
 
 - [demo-python-cli](https://github.com/djvelimir/demo-python-cli)

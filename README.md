@@ -28,6 +28,7 @@ GitHub pages: <https://djvelimir.github.io>
 ### C# .NET
 
 - [demo-dotnet-cli](https://github.com/djvelimir/demo-dotnet-cli)
+- [demo-dotnet-benchmark](https://github.com/djvelimir/demo-dotnet-benchmark.git)
 - [demo-dotnet-web-api](https://github.com/djvelimir/demo-dotnet-web-api)
 
 ### C++

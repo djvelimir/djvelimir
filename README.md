@@ -10,6 +10,8 @@ I invite you to take a journey through my digital portfolio: <https://djvelimir.
     </div>
 </a>
 
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=djvelimir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+<a href="https://djvelimir.github.io">
+    <div align="right">
+        <img src="https://komarev.com/ghpvc/?username=djvelimir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    </div>
+</a>

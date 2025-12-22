@@ -14,6 +14,6 @@ I hold a Master's in Computer Science and am always eager to solve complex techn
 
 📩 Let's connect. I'm open to senior engineering, architectural, and leadership opportunities in forward-thinking teams.
 
-Portfolio: <https://djvelimir.github.io>
+Portfolio: <https://djvelimir.com>
 
-[![Developer activity animate](images/developer-activity-animate.svg)](https://djvelimir.github.io)
+[![Developer activity animate](images/developer-activity-animate.svg)](https://djvelimir.com)

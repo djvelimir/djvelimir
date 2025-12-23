@@ -15,7 +15,7 @@ Scalable system design, cloud-native architecture, containerization, performance
 
 While I bring strong expertise in my current technology stack, I am not limited to it. I enjoy learning new technologies and adapting to the tools and platforms that best serve the product and team.
 
-I hold a Master’s degree in Computer Science and am driven by solving complex technical challenges, leading by example, and delivering innovative, high-quality solutions.
+I hold a Master's degree in Computer Science and am driven by solving complex technical challenges, leading by example, and delivering innovative, high-quality solutions.
 
 I am open to senior engineering, architectural, and technical leadership opportunities with forward-thinking teams.
 

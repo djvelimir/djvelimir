@@ -1,18 +1,23 @@
 # Hi there, I’m Velimir Đurković
 
-Experienced Senior Software Engineer and Full-Stack Developer with 14+ years of delivering robust, scalable, and high-performance software solutions across industries. I specialize in designing and implementing end-to-end systems using .NET, Java, Angular, TypeScript, and JavaScript.
+Experienced Senior Software Engineer and Full-Stack Developer with a strong track record of delivering robust, scalable, and high-performance software solutions across multiple industries. I specialize in designing and implementing end-to-end systems using .NET, Java, Angular, TypeScript, and JavaScript.
 
-Throughout my career, I have taken on key responsibilities in software architecture and team coordination, contributing to system design decisions, mentoring developers, and helping lead the technical direction of projects. I enjoy stepping into roles that require both technical depth and cross-team collaboration.
+Throughout my career, I have taken on key responsibilities in software architecture and technical leadership, contributing to system design decisions, mentoring developers, and helping shape the technical direction of projects. I thrive in roles that combine deep technical work with cross-team collaboration.
 
-🧠 Tech Expertise: .NET, Java, Angular, TypeScript, JavaScript, SQL, REST APIs, Microservices, Docker, Azure/AWS, CI/CD  
-👥 Leadership & Collaboration: Team coordination, mentoring, agile development, cross-functional teamwork  
-🧩 Architecture: Scalable system design, containerization, cloud architecture, performance optimization
+Technical Expertise:
+.NET, Java, Angular, TypeScript, JavaScript, SQL, REST APIs, Microservices, Docker, Azure/AWS, CI/CD
 
-While I have strong expertise in my current tech stack, I am not limited to it. I am always open to learning and working with new technologies that best fit the needs of the product or team.
+Leadership & Collaboration:
+Team coordination, mentoring, agile development, cross-functional collaboration
 
-I hold a Master's in Computer Science and am always eager to solve complex technical challenges, lead by example, and drive innovation.
+Architecture & Design:
+Scalable system design, cloud-native architecture, containerization, performance optimization
 
-📩 Let's connect. I'm open to senior engineering, architectural, and leadership opportunities in forward-thinking teams.
+While I bring strong expertise in my current technology stack, I am not limited to it. I enjoy learning new technologies and adapting to the tools and platforms that best serve the product and team.
+
+I hold a Master’s degree in Computer Science and am driven by solving complex technical challenges, leading by example, and delivering innovative, high-quality solutions.
+
+I am open to senior engineering, architectural, and technical leadership opportunities with forward-thinking teams.
 
 Portfolio: <https://djvelimir.com>
 

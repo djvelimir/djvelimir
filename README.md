@@ -1,4 +1,4 @@
-# Hi there, I’m Velimir Đurković
+# Hi there, I'm Velimir Đurković
 
 Experienced Senior Software Engineer and Full-Stack Developer with a strong track record of delivering robust, scalable, and high-performance software solutions across multiple industries. I specialize in designing and implementing end-to-end systems using .NET, Java, Angular, TypeScript, and JavaScript.
 

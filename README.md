@@ -1,6 +1,6 @@
 # Hi there, I'm Velimir Đurković
 
-Experienced Senior Software Engineer and Full-Stack Developer with a strong track record of delivering robust, scalable, and high-performance software solutions across multiple industries. I specialize in designing and implementing end-to-end systems using .NET, Java, Angular, TypeScript, and JavaScript.
+Experienced Senior Software Engineer with a strong track record of delivering robust, scalable, and high-performance software solutions across multiple industries. I specialize in designing and implementing end-to-end systems using .NET, Java, Angular, TypeScript, and JavaScript.
 
 Throughout my career, I have taken on key responsibilities in software architecture and technical leadership, contributing to system design decisions, mentoring developers, and helping shape the technical direction of projects. I thrive in roles that combine deep technical work with cross-team collaboration.
 

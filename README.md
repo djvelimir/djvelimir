@@ -5,5 +5,7 @@ Experienced Senior Software Engineer with a strong track record of delivering ro
 ## Links
 
 - Personal Website: [djvelimir.com](https://djvelimir.com)
+- Blog: [blog.djvelimir.com](https://blog.djvelimir.com)
+- Radio: [radio.djvelimir.com](https://radio.djvelimir.com)
 - LinkedIn: [linkedin.com/in/djvelimir](https://www.linkedin.com/in/djvelimir)
 - YouTube: [youtube.com/@djvelimir](https://www.youtube.com/@djvelimir)
